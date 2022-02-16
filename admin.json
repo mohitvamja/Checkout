@@ -1,0 +1,1 @@
+php bin/magento admin:user:create --admin-user=mageplaza --admin-password=WeLoveMagento --admin-email=hi@mageplaza.com --admin-firstname=Mageplaza --admin-lastname=Family
